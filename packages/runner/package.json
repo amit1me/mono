@@ -14,5 +14,6 @@
   },
   "dependencies": {
     "@silly-dev/consumer": "^1.0.1-alpha.0"
-  }
+  },
+  "gitHead": "4cd4771be3ee989f945aec50ecd2a0b4d3eaf548"
 }
