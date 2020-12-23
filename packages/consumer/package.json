@@ -1,6 +1,6 @@
 {
   "name": "@silly-dev/consumer",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "description": "> TODO: description",
   "author": "Amit Singh <amit1me@gmail.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@silly-dev/printer": "^1.0.0"
+    "@silly-dev/printer": "^1.0.1-alpha.0"
   }
 }
