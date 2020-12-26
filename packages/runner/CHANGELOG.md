@@ -1,0 +1,8 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [1.0.3-beta.4](https://github.com/amit1me/mono/compare/@silly-dev/runner@1.0.3-beta.3...@silly-dev/runner@1.0.3-beta.4) (2020-12-26)
+
+**Note:** Version bump only for package @silly-dev/runner
