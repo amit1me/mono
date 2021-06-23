@@ -1,6 +1,6 @@
 {
   "name": "@silly-dev/consumer",
-  "version": "1.0.3-beta.8",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "Amit Singh <amit1me@gmail.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@silly-dev/printer": "^1.0.2-alpha.0"
+    "@silly-dev/printer": "^1.0.2"
   },
   "gitHead": "408c06130c04f81b829a6f1cf3351b9523b86b71"
 }
