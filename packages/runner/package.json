@@ -1,6 +1,6 @@
 {
   "name": "@silly-dev/runner",
-  "version": "1.0.3",
+  "version": "1.0.4-alpha.0",
   "description": "> TODO: description",
   "author": "Amit Singh <amit1me@gmail.com>",
   "homepage": "",
@@ -13,7 +13,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@silly-dev/consumer": "^1.0.3"
+    "@silly-dev/consumer": "^1.0.4-alpha.0"
   },
   "gitHead": "408c06130c04f81b829a6f1cf3351b9523b86b71"
 }
